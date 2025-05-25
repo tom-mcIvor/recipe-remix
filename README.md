@@ -1,4 +1,6 @@
-# Recipe Remix
+# @tom-mcIvor's Recipe Remix
+
+An AI-powered web app that helps you find the perfect recipe based on ingredients you already have. Simply input your available ingredients, and get a curated list of delicious recipe options to choose from. No more wondering what to cook - let Recipe Remix help you make the most of what's in your kitchen!
 
 ## Project Name
 Recipe Remix
